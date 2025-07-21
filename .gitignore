@@ -1,0 +1,89 @@
+# === Arduino ===
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.lst
+*.d
+*.o
+*.a
+*.pyc
+*.bak
+*.swp
+
+# Arduino build folders (from Arduino IDE)
+build/
+*.cpp.d
+*.cpp.o
+
+# Arduino IDE autosave
+*.ino.cpp
+
+# Arduino CLI cache
+.arduino/
+
+# VS Code + PlatformIO
+.vscode/
+.pio/
+
+# === KiCad ===
+*.bak
+*.tmp
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backup.kicad_pcb
+*-save.kicad_pcb
+
+# KiCad generated files
+*.net
+*.xml
+*.tmp.*
+*.cache
+fp-info-cache
+sym-lib-table-bak
+*.dcm
+*-rescue.*
+
+# Gerbers, BOMs, and builds
+*.gbr
+*.gbo
+*.gbp
+*.gbs
+*.gko
+*.gml
+*.gpt
+*.gtl
+*.gto
+*.gtp
+*.gts
+*.gbl
+*.drl
+*.zip
+*.csv
+*.pos
+*.tsv
+
+# === Eagle ===
+*.s#?
+*.b#?
+
+# === EasyEDA ===
+*.json.backup
+*.tmp
+*.autosave
+
+# === General OS cruft ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Backup files ===
+*~
+*.bak
+*.old
+*.orig
+
+# === Logs ===
+*.log
+
