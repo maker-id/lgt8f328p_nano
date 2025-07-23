@@ -79,8 +79,10 @@
 If the onboard LED blinks, the board is working correctly ✅
 
    ![CH340 Driver Screenshot](img/result.png)
-   
+
 1. Demo
+
+ [Download demo video](img/demo.mp4)
 ---
 
 ## Author
