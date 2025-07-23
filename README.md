@@ -59,14 +59,17 @@
 
 2. Then select the Select other Board and Port menu, if the installation is correct, the board and port will be read or appear as in the image below :   
    **Select other board and port**
+
    ![CH340 Driver Screenshot](img/port.png)
 
    If the installation is successful, the board and port will appear.
 
 3. Click **OK**, then click **Upload** (right arrow icon)
+
    ![CH340 Driver Screenshot](img/blink.png)
 
 4. Wait for the compile and upload process to complete.
+
    ![CH340 Driver Screenshot](img/comp.png)
 
 ---
@@ -74,7 +77,10 @@
 ## 5. Result
 
 If the onboard LED blinks, the board is working correctly ✅
-![CH340 Driver Screenshot](img/result.png)
+
+   ![CH340 Driver Screenshot](img/result.png)
+   
+1. Demo
 ---
 
 ## Author
