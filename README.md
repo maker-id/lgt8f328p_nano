@@ -11,7 +11,7 @@
 
 4. Once CH340 is connected, you will see a COM port in **Tools > Port** in Arduino IDE.  
    The COM number may vary depending on your system.
-   ![CH340 Driver Screenshot](img/comport.png)
+   ![CH340 Driver Screenshot](img/com-port.png)
 
    **Example:**
    `Driver connected on COM3`
