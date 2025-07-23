@@ -41,10 +41,13 @@
 ## 3. Install the Board via Boards Manager
 
 1. Go to menu: **Tools > Board > Boards Manager**
+
    ![CH340 Driver Screenshot](img/tools.png)
 
 2. Search for `LGT8F328`
+
    ![CH340 Driver Screenshot](img/ins.png)
+
 3. Click **Install**
 
 ---
