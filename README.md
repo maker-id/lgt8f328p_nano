@@ -11,6 +11,7 @@
 
 4. Once CH340 is connected, you will see a COM port in **Tools > Port** in Arduino IDE.  
    The COM number may vary depending on your system.
+   
    ![CH340 Driver Screenshot](img/com-port.png)
 
    **Example:**
@@ -31,9 +32,11 @@
    https://raw.githubusercontent.com/dbuezas/lgt8fx/master/package_lgt8fx_index.json
    ```
    ![CH340 Driver Screenshot](img/pref.png)
+
 4. Click **OK**.
 
-   For more info about this board manager, visit:  
+   For more info about this board manager, visit:
+
    [https://github.com/dbuezas/lgt8fx](https://github.com/dbuezas/lgt8fx)
 
 ---
@@ -55,6 +58,7 @@
 ## 4. Upload the Blink Sketch
 
 1. Go to:  **File > Examples > 01.Basics > Blink**
+
    ![CH340 Driver Screenshot](img/basic.png)
 
 2. Then select the Select other Board and Port menu, if the installation is correct, the board and port will be read or appear as in the image below :   
